@@ -18,11 +18,11 @@ This project is a responsive redesign of the [UltraEdit download page](https://w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ultraedit-ui-redesign.git
+   git clone https://github.com/Rohitkr0406/UltraEdit-UI-Redesign-Responsive.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ultraedit-ui-redesign
+   cd UltraEdit-UI-Redesign-Responsive
    ```
 3. Open `index.html` in a browser to view locally.
 
