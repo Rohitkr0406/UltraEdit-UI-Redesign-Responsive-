@@ -30,6 +30,9 @@ This project is a responsive redesign of the [UltraEdit download page](https://w
 - This is a static webpage for learning purposes, viewable locally or hostable on any web server.
 - Customize `style.css` to tweak colors, transitions, or layout.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/596ab161-abf7-4a6d-b59a-cc6b8aa44c08)
+
 ## File Structure
 ```
 ultraedit-ui-redesign/
